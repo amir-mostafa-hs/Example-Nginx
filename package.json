@@ -1,0 +1,11 @@
+{
+  "name": "Example Nginx",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "cd src && node server.js "
+  }
+}
